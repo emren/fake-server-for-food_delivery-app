@@ -1,0 +1,14 @@
+{
+  "name": "food_delivery_app_server",
+  "version": "1.0.0",
+  "description": "fake rest api for testing food delivery app",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.2"
+  }
+}
